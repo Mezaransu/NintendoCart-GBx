@@ -1,4 +1,7 @@
 # MBC1 unknown
+# MBC30 Pocket Monsters - Crystal Version (JPN)
+* ROM / CGB-BXTJ-0 / MX23C1603-12A / 2048KB
+* RAM / HY628100B / 128KB
 # MBC3 Keitai Denjuu Telefang - Speed Version (JPN)
 * ROM / MDG-BTZJ-0 / N-16019WG5-M65 / 2048KB
 * RAM / GM76C256CLLFW70 / 32KB
